@@ -4,4 +4,11 @@ python-dotenv
 streamlit
 langchain-google-genai
 openai-whisper
-pytubex
+pytubefix
+qdrant-client
+sentence-transformers
+langchain-text-splitters
+langchain-core
+langchain-community
+pydantic
+python-multipart
